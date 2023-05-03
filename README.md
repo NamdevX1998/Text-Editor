@@ -13,3 +13,7 @@ copy: this menuitem is to copy the selected area to the clipboard
 paste : this menuitem is to paste the text from the clipboard to the text area 
 select All: this menuitem is to copy the all text area to the clipboard   
 Close : this button closes the frame
+
+# Output
+
+![Screenshot 2023-05-03 191337](https://user-images.githubusercontent.com/128424860/235934153-e29040d3-b93d-4cf3-bb93-abb876307e86.png)
